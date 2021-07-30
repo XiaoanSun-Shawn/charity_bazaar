@@ -1,0 +1,5 @@
+#add-item-btn, #confirm-orders-btn {
+    display: inline-block;
+    margin-inline: 10px;
+    margin-bottom: 20px;
+}
